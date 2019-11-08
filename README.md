@@ -13,6 +13,11 @@ Cd into the project:
 > cd german-parliament
 ```
 
+Install dependencies:
+```
+> pip3 install -r requirements.txt
+```
+
 Run the donwload script:
 ```
 > python3 src/script.py
