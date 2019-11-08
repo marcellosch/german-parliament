@@ -1,0 +1,6 @@
+data/*
+__pycache__/
+.mypy_chace/
+.ipynb_checkpoints/
+.vscode/
+.pytest_cache/
