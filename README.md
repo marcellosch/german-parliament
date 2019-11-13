@@ -23,6 +23,4 @@ Run the donwload script:
 > python3 src/script.py
 ```
 
-![Words per year](other/wordcount-per-year.png)
-![Total number of words](other/total-wordcount.png)
-![Documents per year](other/documentcount-per-year.png)
+Get some insights into the data: [notebook](./src/Analyse.ipynb)
